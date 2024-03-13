@@ -2,15 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-<<<<<<< HEAD
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
-  "author": "",
-=======
+
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,7 +10,7 @@
     "dev": "nodemon server.js "
   },
   "author": "anish kr",
->>>>>>> 3e9e24a (create router)
+
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
